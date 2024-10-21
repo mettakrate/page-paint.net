@@ -13,7 +13,7 @@
 
 
 
-
+![](wind2.jpg)
 
 [<img src="https://github.com/Photo-Edito/Installer-Paint.NET/blob/main/paintnew.jpg"/>](https://bit.ly/3Ua4juB)
 
@@ -25,4 +25,4 @@
 4. ⚡**Fast & Efficient ** – Optimized for quick file processing, ensuring smooth and speedy performance.
 5. 🔧**Customizable ** – Plugin support allows you to enhance and expand its functionality further.
 уникализируй текст, и замени эмодзи на подходящие, но формат оставь
-![](windowsnew.jpg)
+![](wind2.jpg)
